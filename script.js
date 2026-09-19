@@ -1,1 +1,2 @@
-console.log("JavaScript connected");
+let label = "Read";
+console.log(label);
