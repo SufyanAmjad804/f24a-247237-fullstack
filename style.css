@@ -40,3 +40,11 @@ section {
   position: relative;
   min-height: 80px;
 }
+.badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: #fff;
+  color: #1a2744;
+  padding: 0.25rem 0.5rem;
+}
