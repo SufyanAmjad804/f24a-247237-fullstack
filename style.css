@@ -56,4 +56,12 @@ section {
   background: #fff;
   color: #1a2744;
   padding: 0.25rem 0.5rem;
+  z-index: 2;
+}
+.note {
+  color: red;
+}
+
+#status {
+  color: #1a2744;
 }
