@@ -40,6 +40,15 @@ section {
   position: relative;
   min-height: 80px;
 }
+.behind {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 72px;
+  height: 36px;
+  background: #c45c26;
+  z-index: 1;
+}
 .badge {
   position: absolute;
   top: 8px;
