@@ -1,3 +1,20 @@
 * {
     box-sizing: border-box;
 }
+header { 
+    background: #0B2545; /* NAVY FROM TEACHING */
+} 
+
+footer { 
+    background: #0B2545; /* NAVY FROM TEACHING */
+} 
+
+nav { 
+    background: #EEF4F8; /* GREY FROM TEACHING */
+    display: flex; 
+    gap: 1.5rem;          /* GAP FROM TEACHING */
+} 
+
+nav a:hover { 
+    color: #134074;       /* HOVER COLOR FROM TEACHING */
+}
